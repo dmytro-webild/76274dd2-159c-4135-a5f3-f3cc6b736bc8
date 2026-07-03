@@ -6,15 +6,15 @@
 
 :root {
   /* @colorThemes/lightTheme/creamEspresso */
-  --background: #F5F0E8;
-  --card: #EDE7DB;
-  --foreground: #2C1810;
-  --primary-cta: #2C1810;
-  --primary-cta-text: #F5F0E8;
-  --secondary-cta: #FFFFFF;
-  --secondary-cta-text: #2C1810;
-  --accent: #8B7355;
-  --background-accent: #6F4E37;
+  --background: #F2E6D4;
+  --card: #C9A47E;
+  --foreground: #1A0A00;
+  --primary-cta: #B54E2A;
+  --primary-cta-text: #F2E6D4;
+  --secondary-cta: #C9A47E;
+  --secondary-cta-text: #1A0A00;
+  --accent: #B54E2A;
+  --background-accent: #C9A47E;
 
   /* @layout/border-radius/soft */
   --radius: 1.75rem;
